@@ -11,12 +11,6 @@
 
 # --------------------------------------------------------------------------
 # Autor(a) del trabajo:
-#
-# APELLIDOS: Gómez Campos
-# NOMBRE: Álvaro
-#
-# Segundo(a) componente (si se trata de un grupo):
-#
 # APELLIDOS: Sánchez Arroyo
 # NOMBRE: Juan Ramón
 # ----------------------------------------------------------------------------
